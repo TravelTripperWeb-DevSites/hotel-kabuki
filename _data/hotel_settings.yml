@@ -1,0 +1,16 @@
+---
+_hotel_id: HOT826
+_portal_id: required-but-empty
+_root_path: https://qa4.ttaws.com/rt
+latitude: 37.78567
+longitude: -122.42868
+name: Hotel Kabuki - a Joie de Vivre Boutique Hotel
+email: steffan@traveltripper.io
+phone_number: "--"
+address:
+  street1: 1625 Post St
+  street2: ''
+  state: California
+  city: San Francisco
+  country: United States
+  zip_code: '94115'
